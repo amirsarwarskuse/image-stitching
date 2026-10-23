@@ -4,7 +4,7 @@ Stitches overlapping photos into one image, or a wide panorama, using SIFT featu
 
 | Two-image stitch | Three-image panorama |
 |---|---|
-| ![Stitched pair](results/stitched_pair.jpg) | ![Panorama](results/panorama.jpg) |
+| ![Stitched pair](Results/stitched_pair.jpg) | ![Panorama](Results/panorama.jpg) |
 
 ## Run it
 
